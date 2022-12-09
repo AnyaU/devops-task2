@@ -3,7 +3,7 @@
 
 **This is an example of automated CI process for building, validating and publishing of a docker image.**
 
-Under the hood there is a simple Docker file that executes a shell script that sums two numbers provided to it via environment variables `a` and `b`.
+Under the hood there is a simple Docker file for execution of a shell script that sums two numbers provided to it via environment variables `a` and `b`.
 
 Example usage:
 ```
